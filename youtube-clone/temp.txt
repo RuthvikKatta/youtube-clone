@@ -1,0 +1,113 @@
+this is the response of video api fetch ={
+  "kind": "youtube#video",
+  "etag": "KHIszcJLUVMdzfbnUtX1KIzRCTs",
+  "id": "FpRq9C6C19g",
+  "snippet": {
+      "publishedAt": "2023-10-21T18:30:15Z",
+      "channelId": "UCHmk8iNJHvf5mGN6_pkPc7g",
+      "title": "EMIWAY - STILL NUMBER 1 (PROD BY BARGHOLZ ) | OFFICIAL MUSIC VIDEO | EXPLICIT",
+      "description": "Spotify - https://spotify.link/k6DbjlEj5Db\n\nAudio credits:\nSong :- Still Number 1\nArtist & Lyrics :- Emiway Bantai\nMusic :- Bargholz\nMix & mastered by :- Emiway Bantai \n\n\nVideo credits:\nProduction :- Bantai Studio\nDirected & Filmed by : - Thrector \nEdited by :- Thrector & Emiway Bantai\nCC :- VBreak\nVfx :- VBreak \nCostume designer :- Emiway & Team\nArtist Manager :- Pooja k\nProduction Head :- Sumit, Minta and Pooja k\nProduction management:- Shubham , Hemanth, Sachin, Manish, Feel\nLocation Courtesy :- Four Points by Sheraton Vashi\n\n\nStreaming Links: Still Number 1\nSpotify: https://open.spotify.com/track/0nXYmY9YtiHkFGlR3cusur?si=40b01c4ea056487a\n\nApple Music: https://music.apple.com/us/album/still-number-1/1712907311?i=1712907521\n\nYouTube Music: https://music.youtube.com/watch?v=E71uHxiHUvI&si=T21Qd2LYT07yHWuQ\n\nAmazon Music: https://music.amazon.in/albums/B0CLHG7DSN?marketplaceId=A21TJRUUN4KGV&musicTerritory=IN&ref=dm_sh_jjEwawpVl67nqxlDKYUDkAR5K&trackAsin=B0CLHFVJGY\n\nJio Saavn: https://www.jiosaavn.com/song/still-number-1/XTwfRhZ5Zgc\n\nWynk Music: https://wynk.in/u/azJvr2DAw\n\n\nFollow Emiwaybantai :- \nInstagram / https://instagram.com/emiwaybantai?igshid=Zjc2ZTc4Nzk=\nTwitter / https://twitter.com/emiwaytweets?s=11&t=LTwkOm874W90GUY2E0M0Wg\nFacebook / https://www.facebook.com/emiwayofficial?mibextid=LQQJ4d\n\n\n\nOfficial EB store :- https://www.bantai.in/",
+      "thumbnails": {
+          "default": {
+              "url": "https://i.ytimg.com/vi/FpRq9C6C19g/default.jpg",
+              "width": 120,
+              "height": 90
+          },
+          "medium": {
+              "url": "https://i.ytimg.com/vi/FpRq9C6C19g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+          },
+          "high": {
+              "url": "https://i.ytimg.com/vi/FpRq9C6C19g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+          },
+          "standard": {
+              "url": "https://i.ytimg.com/vi/FpRq9C6C19g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+          },
+          "maxres": {
+              "url": "https://i.ytimg.com/vi/FpRq9C6C19g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+          }
+      },
+      "channelTitle": "Emiway Bantai",
+      "tags": [
+          "emiway",
+          "still number 1",
+          "emiway bantai",
+          "emiway new song",
+          "king of indian hip hop",
+          "rap",
+          "independent",
+          "bantai ki public",
+          "ihh",
+          "bkp"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+          "title": "EMIWAY - STILL NUMBER 1 (PROD BY BARGHOLZ ) | OFFICIAL MUSIC VIDEO | EXPLICIT",
+          "description": "Spotify - https://spotify.link/k6DbjlEj5Db\n\nAudio credits:\nSong :- Still Number 1\nArtist & Lyrics :- Emiway Bantai\nMusic :- Bargholz\nMix & mastered by :- Emiway Bantai \n\n\nVideo credits:\nProduction :- Bantai Studio\nDirected & Filmed by : - Thrector \nEdited by :- Thrector & Emiway Bantai\nCC :- VBreak\nVfx :- VBreak \nCostume designer :- Emiway & Team\nArtist Manager :- Pooja k\nProduction Head :- Sumit, Minta and Pooja k\nProduction management:- Shubham , Hemanth, Sachin, Manish, Feel\nLocation Courtesy :- Four Points by Sheraton Vashi\n\n\nStreaming Links: Still Number 1\nSpotify: https://open.spotify.com/track/0nXYmY9YtiHkFGlR3cusur?si=40b01c4ea056487a\n\nApple Music: https://music.apple.com/us/album/still-number-1/1712907311?i=1712907521\n\nYouTube Music: https://music.youtube.com/watch?v=E71uHxiHUvI&si=T21Qd2LYT07yHWuQ\n\nAmazon Music: https://music.amazon.in/albums/B0CLHG7DSN?marketplaceId=A21TJRUUN4KGV&musicTerritory=IN&ref=dm_sh_jjEwawpVl67nqxlDKYUDkAR5K&trackAsin=B0CLHFVJGY\n\nJio Saavn: https://www.jiosaavn.com/song/still-number-1/XTwfRhZ5Zgc\n\nWynk Music: https://wynk.in/u/azJvr2DAw\n\n\nFollow Emiwaybantai :- \nInstagram / https://instagram.com/emiwaybantai?igshid=Zjc2ZTc4Nzk=\nTwitter / https://twitter.com/emiwaytweets?s=11&t=LTwkOm874W90GUY2E0M0Wg\nFacebook / https://www.facebook.com/emiwayofficial?mibextid=LQQJ4d\n\n\n\nOfficial EB store :- https://www.bantai.in/"
+      },
+      "defaultAudioLanguage": "en-GB"
+  },
+  "contentDetails": {
+      "duration": "PT3M56S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+  },
+  "statistics": {
+      "viewCount": "1392128",
+      "likeCount": "296447",
+      "favoriteCount": "0",
+      "commentCount": "41698"
+  }
+}
+this is the response of channel api fetch = {
+    "kind": "youtube#channel",
+    "etag": "yDtZypWEt5wdprSloHWXQ1SvlQA",
+    "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "snippet": {
+        "title": "Google for Developers",
+        "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
+        "customUrl": "@googledevelopers",
+        "publishedAt": "2007-08-23T00:34:43Z",
+        "thumbnails": {
+            "default": {
+                "url": "https://yt3.ggpht.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+            },
+            "medium": {
+                "url": "https://yt3.ggpht.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+            },
+            "high": {
+                "url": "https://yt3.ggpht.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+            }
+        },
+        "localized": {
+            "title": "Google for Developers",
+            "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
+        },
+        "country": "US"
+    },
+    "statistics": {
+        "viewCount": "236051682",
+        "subscriberCount": "2320000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5874"
+    }
+}
+I fetch the channel from the channel ids that retrieved from the video api how can I do that  

@@ -1,0 +1,16 @@
+@keyframes animateCenterColor {
+    0% {
+        background-position-x: 200%;
+    }
+
+    100% {
+        background-position-x: 0%;
+    }
+}
+
+.swipe {
+    background: linear-gradient(100deg, rgb(209, 213, 219) 5%, rgb(247, 247, 247) 15% 20%, rgb(209, 213, 219) 35%);
+    background-size: 200% 100%;
+    background-position-x: 200%;
+    animation: animateCenterColor 1s infinite;
+}
